@@ -4,8 +4,8 @@ out/
 !**/src/test/**/out/
 .idea/
 out/
-,iml/
-
+.iml/
+idea/
 
 .apt_generated
 .classpath
